@@ -1,0 +1,36 @@
+/* Main webpage css */
+
+body {
+  font-family: monospace;
+  background-color: #FAF9F6;
+  /* text-align: center; */
+}
+
+.header {
+  text-align: center;
+}
+
+.top {
+  font-size: 50px;
+}
+
+.walter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.bottom {
+  font-size: 25px;
+}
+
+.recipe-list {
+  text-align: center;
+}
+
+.food:not(:hover) {
+  text-decoration: none;
+}
+
+/* Chicken Adobo css */
